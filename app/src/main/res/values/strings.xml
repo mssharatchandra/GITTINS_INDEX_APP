@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="confused">CONFUSED?</string>
+    <string name="need_to_decide">NEED TO DECIDE?</string>
+    <string name="let_s_go">Let\'s GO!!!!</string>
+    <string name="welcome_master">WELCOME MASTER!</string>
+    <string name="here_s_my_prediction">Here\'s my prediction🧞‍♂️</string>
+    <string name="this_is_your_expected_success_rate">This is your expected success rate💫🤩</string>
+    <string name="enter_the_number_of_bad_experiences_loses">ENTER THE NUMBER OF BAD EXPERIENCES (LOSES)😔</string>
+    <string name="enter_the_number_of_good_experiences_wins">ENTER THE NUMBER OF GOOD EXPERIENCES (WINS)🏆</string>
+    <string name="predict">PREDICT 🔮✨</string>
+    <string name="only_numebers_from_0_9">only numebers from 0-9</string>
+
+    <string name="let_s_go1">LET\'S GO!!!!🛩🛩️️️</string>
+</resources>
